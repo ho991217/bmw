@@ -1,0 +1,15 @@
+@font-face {
+   font-family: "BMWTypeNext Pro Regular";
+   src: url("ac95f91c55cc591ecf37a4d136ff8031.eot"); /* IE9*/
+   src: url("ac95f91c55cc591ecf37a4d136ff8031.eot?#iefix")
+         format("embedded-opentype"),
+      /* IE6-IE8 */ url("ac95f91c55cc591ecf37a4d136ff8031.woff2")
+         format("woff2"),
+      /* chrome、firefox */ url("ac95f91c55cc591ecf37a4d136ff8031.woff")
+         format("woff"),
+      /* chrome、firefox */ url("ac95f91c55cc591ecf37a4d136ff8031.ttf")
+         format("truetype"),
+      /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+         url("ac95f91c55cc591ecf37a4d136ff8031.svg#BMWTypeNext Pro Regular")
+         format("svg"); /* iOS 4.1- */
+}
